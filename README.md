@@ -1,4 +1,4 @@
-
+This was forked due to a (security) needed.
 ## collab-vm-server
 This repository contains all the necessary source files to compile the collab-vm-server. The collab-vm-server powers CollabVM, and it is what you use to host it. You can either download already compiled binaries or compile it yourself. Compilation instructions are below. 
 
